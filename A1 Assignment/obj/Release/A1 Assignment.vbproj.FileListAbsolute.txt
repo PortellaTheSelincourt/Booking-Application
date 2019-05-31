@@ -1,0 +1,18 @@
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\bin\Release\BathChildrenLit2018.accdb
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\bin\Release\A1 Assignment.exe.config
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\bin\Release\A1 Assignment.exe
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\bin\Release\A1 Assignment.pdb
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\bin\Release\A1 Assignment.xml
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.ContactsHelp.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.EventsForm.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.EventsBooking.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.LoginHelp.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.Login.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.Contacts.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.MainMenu.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1_Assignment.Resources.resources
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1 Assignment.vbproj.GenerateResource.Cache
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1 Assignment.vbproj.CoreCompileInputs.cache
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1 Assignment.exe
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1 Assignment.xml
+E:\HE Computing\FdSc_Stage2\Visual Programing LP20539\Projects\BANES Events\A1 Assignment\obj\Release\A1 Assignment.pdb
